@@ -31,7 +31,7 @@
   
   For the front end, I really like to use:
   
-  - Figma <sub><img src="https://icongr.am/devicon/nodejs-original.svg?size=16&color=currentColor"></sub>
+  - Figma <sub><img height="16px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png"></sub>
   - JQuery <sub><img src="https://icongr.am/devicon/jquery-original.svg?size=16&color=currentColor"></sub>
   - Javascript  <sub><img src="https://icongr.am/devicon/javascript-original.svg?size=16&color=currentColor"></sub>
   - HTML <sub><img src="https://icongr.am/devicon/html5-original.svg?size=16&color=currentColor"></sub>
@@ -46,7 +46,7 @@
   ### 🛢 Database
   
   - MongoDB <sub><img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=16&color=currentColor"></sub>
-  - NeDB <sub><a href="https://github.com/louischatriot/nedb" target="_blank"><img src="http://i.imgur.com/9O1xHFb.png" height="16px"></a></sub> ( MongoDB subset)
+  - NeDB <sub><a href="https://github.com/louischatriot/nedb" target="_blank"><img src="http://i.imgur.com/9O1xHFb.png" height="16px"></a></sub> ( MongoDB subset )
   
   
   ### Heading to learn
