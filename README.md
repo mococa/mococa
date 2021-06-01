@@ -9,6 +9,9 @@
 <a href="/" target="_blank">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mococa?color=%23000000&style=flat-square">
 </a>
+<a href="mailto:luizfelipesmoureau@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/static/v1?color=%23fff&logo=gmail&logoColor=%23f44&message=Gmail&label=&style=flat-square">
+</a>
 
 
 
