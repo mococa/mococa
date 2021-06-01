@@ -24,8 +24,16 @@
   
   I mostly code for the web and desktop and in JavaScript (Vanilla, Node and JQuery), Python (Tkinter or automation scripts) and VB.NET (An almost dead language, I know, but I still find it simple to create small Windows programs)
   
-  For mobile, I use Java (Androi Studio)
-
+  For mobile, I use Java (Android Studio)
+  
+  ### 💻Desktop
+  
+  - Python <sub><img src="https://icongr.am/devicon/python-original.svg?size=16"></sub>
+  - VB.NET <sub><img src="https://icongr.am/devicon/dot-net-original.svg?size=16"></sub>
+  
+  ### 📱 Mobile
+  
+  - Android Studio (Java) <sub><img src="https://icongr.am/devicon/android-plain.svg?size=16&color=34ea61"></sub>
 
   ### 🐥 Front End
   
@@ -63,13 +71,14 @@
   - ⏱️ I can solve a regular rubik's cube in about 16s
   - 🎵 I love music, mainly classic, metal, jazz and electronic (Ask me for my Spotify Playlist!)
   - 💻 My first contact with coding was with creating Flash **(RIP)** games with JavaScript, back in 2010.
+  - ⚠️ And you can get in contact with me via email anytime you want! How cool is that?
   
   
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mococa&layout=compact)](https://github.com/mococa?tab=repositories)
 
 
-<!--
+
 **mococa/mococa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
