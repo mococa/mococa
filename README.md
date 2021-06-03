@@ -6,7 +6,7 @@
 <a href="https://twitter.com/luizmoureau" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
-<a href="/" target="_blank">
+<a href="https://github.com/mococa" target="_blank">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mococa?color=%23000000&style=flat-square">
 </a>
 <a href="mailto:luizfelipesmoureau@gmail.com" target="_blank">
