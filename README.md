@@ -57,9 +57,12 @@
   - NeDB <sub><a href="https://github.com/louischatriot/nedb" target="_blank"><img src="http://i.imgur.com/9O1xHFb.png" height="16px"></a></sub> ( MongoDB subset )
   
   
-  ### Heading to learn
+  ### Currently learning
   
   - React <sub><img src="https://icongr.am/devicon/react-original.svg?size=16&color=currentColor"></sub>
+  
+  ### Heading to learn
+  
   - Vue <sub><img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=16&color=currentColor"></sub>
   - PHP <sub><img src="https://icongr.am/devicon/php-original.svg?size=16&color=currentColor"></sub>
   - Flutter <sub><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" height="16px"></sub>
