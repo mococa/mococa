@@ -24,7 +24,7 @@
   
   I mostly code for the web and desktop and in JavaScript (Vanilla, Node and JQuery), Python (Tkinter or automation scripts) and VB.NET (An almost dead language, I know, but I still find it simple to create small Windows programs)
   
-  For mobile, I use Java (Android Studio)
+  For mobile, I use Java (Android Studio), or simply a PWA (React)
   
   ### 💻Desktop
   
@@ -34,6 +34,7 @@
   ### 📱 Mobile
   
   - Android Studio (Java) <sub><img src="https://icongr.am/devicon/android-plain.svg?size=16&color=34ea61"></sub>
+  - React PWA <sub><img src="https://icongr.am/devicon/react-original.svg?size=16&color=currentColor"></sub>
 
   ### 🐥 Front End
   
@@ -59,6 +60,9 @@
   
   
   ### Currently learning
+  - Next.JS <sub>
+          <img src="https://camo.githubusercontent.com/24049f51a22a955a6aff423e1b91f71599223130a7be89965c61b27f5250748d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" alt="nextjs" data-canonical-src="https://img.shields.io/badge/next.js-000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" style="max-width: 100%;">
+        </sub>
   - Typescript <sub><img src="https://icongr.am/devicon/typescript-original.svg?size=16&color=212121"></sub>
   - Bash <sub><img src="https://icongr.am/devicon/linux-original.svg?size=16&color=212121"></sub>
   
