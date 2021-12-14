@@ -45,6 +45,7 @@
   - HTML <sub><img src="https://icongr.am/devicon/html5-original.svg?size=16&color=currentColor"></sub>
   - EJS <sub><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width="16px"></sub>
   - CSS <sub><img src="https://icongr.am/devicon/css3-original.svg?size=16&color=currentColor"></sub>
+  - React <sub><img src="https://icongr.am/devicon/react-original.svg?size=16&color=currentColor"></sub>
    
   ### 🌐 Back End
   
@@ -58,8 +59,8 @@
   
   
   ### Currently learning
-  
-  - React <sub><img src="https://icongr.am/devicon/react-original.svg?size=16&color=currentColor"></sub>
+  - Typescript <sub><img src="https://icongr.am/devicon/typescript-original.svg?size=16&color=212121"></sub>
+  - Bash <sub><img src="https://icongr.am/devicon/linux-original.svg?size=16&color=212121"></sub>
   
   ### Heading to learn
   
