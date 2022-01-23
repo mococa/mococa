@@ -60,6 +60,7 @@
   
   
   ### 🌱 Currently learning
+  - Postgres 🐘
   - Next.JS <sub>
           <img src="https://camo.githubusercontent.com/24049f51a22a955a6aff423e1b91f71599223130a7be89965c61b27f5250748d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" alt="nextjs" data-canonical-src="https://img.shields.io/badge/next.js-000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" style="max-width: 100%;">
         </sub>
