@@ -75,7 +75,7 @@
 
 ## Facts about me
 
-  - 👦 I'm 20 years old.
+  - 👦 I'm 21 years old.
   - 🌐 I speak Portuguese, English, French and Spanish
   - ⏱️ I can solve a regular rubik's cube in about 16s
   - 🎵 I love music, mainly classic, metal, jazz and electronic (Ask me for my Spotify Playlist!)
