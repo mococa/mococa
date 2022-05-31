@@ -28,6 +28,7 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 
 ### :seedling: Currently learning:
 
+- <sub><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"></sub>
 - <sub><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"></sub>
 - <sub><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" title="Golang"></sub>
 - <span title="What, can't I learn actual languages as well?">Dutch and German :netherlands: :de:</span>
