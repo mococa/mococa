@@ -28,24 +28,24 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 
 ### :seedling: Currently learning:
 
-- <sub><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"></sub>
-- <sub><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"></sub>
-- <sub><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" title="Golang"></sub>
+- <a href="https://aws.amazon.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"></sub></a>
+- <a href="https://flutter.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"></sub></a>
+- <a href="https://go.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" title="Golang"></sub></a>
 - <span title="What, can't I learn actual languages as well?">Dutch and German :netherlands: :de:</span>
 
 ### :man_technologist: Technologies I like to use the most:
 
-- <sub><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React"></sub>
-- <sub><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node"></sub>
-- <sub><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" title="Next JS"></sub>
-- <sub><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" title="Mongo"></sub>
-- <sub><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" title="Prisma"></sub>
-- <sub><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" title="Postgres"></sub>
-- <sub><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" title="Supabase"></sub>
+- <a href="https://reactjs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React"></sub></a>
+- <a href="https://nodejs.org/en/" target="_blank"><sub><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node"></sub></a>
+- <a href="https://nextjs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" title="Next JS"></sub></a>
+- <a href="https://www.mongodb.com/" target="_blank"><sub><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" title="Mongo"></sub></a>
+- <a href="https://www.prisma.io/" target="_blank"><sub><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" title="Prisma"></sub></a>
+- <a href="https://www.postgresql.org/" target="_blank"><sub><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" title="Postgres"></sub></a>
+- <a href="https://supabase.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" title="Supabase"></sub></a>
 
 ### :bug: Heading to learn
 
-- <sub><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" title="Vue"></sub>
+- <a href="https://vuejs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" title="Vue"></sub></a>
 
 ## Facts about me
 
