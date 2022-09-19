@@ -35,13 +35,15 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 
 ### :man_technologist: Technologies I like to use the most:
 
-- <a href="https://reactjs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React"></sub></a>
-- <a href="https://nodejs.org/en/" target="_blank"><sub><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node"></sub></a>
-- <a href="https://nextjs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" title="Next JS"></sub></a>
-- <a href="https://www.mongodb.com/" target="_blank"><sub><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" title="Mongo"></sub></a>
-- <a href="https://www.prisma.io/" target="_blank"><sub><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" title="Prisma"></sub></a>
-- <a href="https://www.postgresql.org/" target="_blank"><sub><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" title="Postgres"></sub></a>
-- <a href="https://supabase.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" title="Supabase"></sub></a>
+<div style="display: flex; align-items: baseline; max-width: 500px; flex-flow: wrap; gap: 4px;">
+  <a href="https://reactjs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React"></sub></a>
+  <a href="https://nodejs.org/en/" target="_blank"><sub><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" title="Node"></sub></a>
+  <a href="https://nextjs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" title="Next JS"></sub></a>
+  <a href="https://www.mongodb.com/" target="_blank"><sub><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" title="Mongo"></sub></a>
+  <a href="https://www.prisma.io/" target="_blank"><sub><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" title="Prisma"></sub></a>
+  <a href="https://www.postgresql.org/" target="_blank"><sub><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" title="Postgres"></sub></a>
+  <a href="https://supabase.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" title="Supabase"></sub></a>
+</div>
 
 ### :bug: Heading to learn
 
