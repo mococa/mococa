@@ -44,6 +44,7 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
   <a href="https://www.postgresql.org/" target="_blank"><sub><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" title="Postgres"></sub></a>
   <a href="https://supabase.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" title="Supabase"></sub></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Typescript-3982CE?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" title="Typescript"></sub></a>
+  <a href="https://go.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" title="Golang"></sub></a>
 </div>
 
 ### :bug: Heading to learn
