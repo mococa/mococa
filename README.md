@@ -30,7 +30,6 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 
 - <a href="https://aws.amazon.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"></sub></a>
 - <a href="https://flutter.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"></sub></a>
-- <a href="https://go.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" title="Golang"></sub></a>
 - <span title="What, can't I learn actual languages as well?">Dutch and German :netherlands: :de:</span>
 
 ### :man_technologist: Technologies I like to use the most:
@@ -50,6 +49,8 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 ### :bug: Heading to learn
 
 - <a href="https://vuejs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" title="Vue"></sub></a>
+- <a href="https://www.rust-lang.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust"></sub></a>
+
 
 ## Facts about me
 
