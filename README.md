@@ -2,8 +2,8 @@
 
 ## I'm Luiz Felipe Moureau
 
-<a href="https://moureau.dev/">
- <img src="https://github.com/mococa/mococa/assets/13316723/576ed809-a3d3-48c7-b330-c9258393adf9" height="21" />
+<a href="https://moureau.dev/" target="_blank">
+ <img src="https://cdn.discordapp.com/attachments/520337029964496918/1109956731229966496/239768207-576ed809-a3d3-48c7-b330-c9258393adf9.png" height="21">
 </a>
 
 
