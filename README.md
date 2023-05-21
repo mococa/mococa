@@ -2,6 +2,11 @@
 
 ## I'm Luiz Felipe Moureau
 
+<a href="https://moureau.dev/">
+ <img src="https://github.com/mococa/mococa/assets/13316723/576ed809-a3d3-48c7-b330-c9258393adf9" height="21" />
+</a>
+
+
 <a href="https://www.linkedin.com/in/luizfelipesmoureau/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -21,6 +26,7 @@
 - ☢️🎓 A Medical Physics Student at UFRJ
 - 🌴🌅 Based in Rio de Janeiro, Brazil
 - 👨‍💻💻 Coding enthusiastic
+- https://moureau.dev
 
 ## :smiley: About
 
