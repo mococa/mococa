@@ -29,7 +29,7 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 
 ### :seedling: Currently learning:
 
-- <a href="https://ziglang.org" target="_blank"><sub><img src="https://img.shields.io/badge/zig-FF9900?style=for-the-badge" alt="Zig" title="Zig"></sub></a>
+- <a href="https://ziglang.org" target="_blank"><sub><img src="https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" title="Zig"></sub></a>
 - <span title="What, can't I learn actual languages as well?">Dutch and German :netherlands: :de:</span>
 
 ### :man_technologist: Technologies I like to use the most:
