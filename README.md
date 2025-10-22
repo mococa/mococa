@@ -2,11 +2,6 @@
 
 ## I'm Luiz Felipe Moureau
 
-<a href="https://moureau.dev/" target="_blank">
- <img src="https://cdn.discordapp.com/attachments/520337029964496918/1109956731229966496/239768207-576ed809-a3d3-48c7-b330-c9258393adf9.png" height="21">
-</a>
-
-
 <a href="https://www.linkedin.com/in/luizfelipesmoureau/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -34,8 +29,7 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 
 ### :seedling: Currently learning:
 
-- <a href="https://aws.amazon.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"></sub></a>
-- <a href="https://flutter.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"></sub></a>
+- <a href="https://ziglang.org" target="_blank"><sub><img src="https://img.shields.io/badge/zig-FF9900?style=for-the-badge" alt="Zig" title="Zig"></sub></a>
 - <span title="What, can't I learn actual languages as well?">Dutch and German :netherlands: :de:</span>
 
 ### :man_technologist: Technologies I like to use the most:
@@ -51,7 +45,12 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
   <a href="https://www.typescriptlang.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Typescript-3982CE?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" title="Typescript"></sub></a>
   <a href="https://go.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" title="Golang"></sub></a>
   <a href="https://nullstack.app/" target="_blank"><sub>
-<img src="https://tinyurl.com/nullstack-badge" alt="Nullstack" title="Nullstack">
+  <img src="https://tinyurl.com/nullstack-badge" alt="Nullstack" title="Nullstack">
+  <a href="https://aws.amazon.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"></sub></a>
+  <a href="https://flutter.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" title="Flutter"></sub></a>
+  <a href="https://www.pulumi.com/" target="_blank"><sub><img src="https://img.shields.io/badge/Pulumi-805AC3?style=for-the-badge&logo=pulumi" alt="Pulumi" title="Pulumi"></sub></a>
+  <a href="https://esbuild.github.io/" target="_blank"><sub><img src="https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black" alt="ESBuild" title="ESBuild"></sub></a>
+  <a href="https://bun.dev/" target="_blank"><sub><img src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge" alt="Bun" title="Bun"></sub></a>
 </sub></a>
 </div>
 
@@ -60,10 +59,9 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 - <a href="https://vuejs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" title="Vue"></sub></a>
 - <a href="https://www.rust-lang.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust"></sub></a>
 
-
 ## Facts about me
 
-- 👦 I'm 22 years old.
+- 👦 I'm 24 years old.
 - 🌐 I speak Portuguese, English, French and Spanish.
 - ⏱️ I can solve a regular rubik's cube in about 16s.
 - 🎵 I love music, mainly classic, metal, jazz and electronic (Ask me for my Spotify Playlist!).
