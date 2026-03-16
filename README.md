@@ -61,7 +61,7 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 
 ## Facts about me
 
-- 👦 I'm 24 years old.
+- 👦 I'm 25 years old.
 - 🌐 I speak Portuguese, English, French and Spanish.
 - ⏱️ I can solve a regular rubik's cube in about 16s.
 - 🎵 I love music, mainly classic, metal, jazz and electronic (Ask me for my Spotify Playlist!).
