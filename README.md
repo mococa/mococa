@@ -18,8 +18,8 @@
   <img alt="E-mail" src="https://img.shields.io/static/v1?color=%23fff&logo=gmail&logoColor=%23f44&message=Gmail&label=&style=flat-square">
 </a>
 
-- 👑⚽ Based in Madrid, Spain
-- 👨‍💻💻 Coding enthusiastic
+- 🏖️☀️ Based in Barcelona, Spain
+- 👨‍💻💻 Programming and systems enthusiastic
 - https://moureau.dev
 - Open-source stuff at [https://github.com/moureau-dev](https://github.com/moureau-dev)
 
@@ -56,7 +56,6 @@ I'm a polyglot web developer who really likes web design, numbers, music and lan
 
 ### :bug: Heading to learn
 
-- <a href="https://vuejs.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" title="Vue"></sub></a>
 - <a href="https://www.rust-lang.org/" target="_blank"><sub><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust"></sub></a>
 
 ## Facts about me
