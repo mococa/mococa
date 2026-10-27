@@ -2,7 +2,7 @@
 
 ## I'm Luiz Felipe Moureau 👋
 
-Software developer based in Barcelona, passionate about building software, exploring systems, and creating good user experiences.
+Software developer based in Barcelona, into building software, systems, and creating good user/developer experience.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/luizfelipesmoureau/)
 [![GitHub](https://img.shields.io/github/followers/mococa?style=flat-square&logo=github&label=GitHub)](https://github.com/mococa)
@@ -11,7 +11,7 @@ Software developer based in Barcelona, passionate about building software, explo
 
 ## About me
 
-I'm a polyglot software developer who enjoys UX design, numbers, music, and languages. I like exploring different technologies, understanding how systems work, and building things that are useful and actually enjoyable to use.
+I'm a polyglot software developer that likes UX design, numbers, music, and languages. I like exploring and mixing different tech, understanding how systems work, and building things that are useful and actually enjoyable to use.
 
 Yes, I also do AI shit. But actual engineering, not wraps of ChatGPT.
 
